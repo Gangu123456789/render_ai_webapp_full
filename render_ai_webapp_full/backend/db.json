@@ -1,0 +1,23 @@
+{
+  "site_overview": {
+    "name": "AI IT Solutions Web App",
+    "description": "Python Flask backend + static frontend deployed on Render."
+  },
+  "solutions_catalog": [
+    {
+      "category": "Cloud Services",
+      "services": [
+        {
+          "title": "Cloud Migration",
+          "short_description": "Secure migration to scalable cloud platforms",
+          "key_features": [
+            "Hybrid cloud",
+            "Security-first",
+            "Cost optimized"
+          ],
+          "cta_text": "Learn More"
+        }
+      ]
+    }
+  ]
+}
