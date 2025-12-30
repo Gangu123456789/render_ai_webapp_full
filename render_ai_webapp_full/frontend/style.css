@@ -1,4 +1,0 @@
-body{font-family:Arial,Helvetica,sans-serif;background:#f4f6f9;margin:0}
-.hero{background:#fff;padding:24px;box-shadow:0 6px 16px rgba(0,0,0,.05)}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px;padding:20px}
-.card{background:#fff;border-radius:18px;padding:14px;box-shadow:0 4px 12px rgba(0,0,0,.08)}
