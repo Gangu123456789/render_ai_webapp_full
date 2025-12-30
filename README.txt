@@ -1,0 +1,1 @@
+Deploy using same Render settings. Build: pip install -r requirements.txt  Start: python backend/app.py

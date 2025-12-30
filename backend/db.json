@@ -1,0 +1,59 @@
+{
+  "site_overview": {
+    "name": "AI IT Solutions Web App",
+    "subtitle": "Modern service catalogue \u2014 Simple Upgrade Version"
+  },
+  "solutions": [
+    {
+      "category": "Cloud & Infrastructure",
+      "services": [
+        {
+          "title": "Cloud Migration",
+          "summary": "Move workloads to secure, scalable cloud platforms"
+        },
+        {
+          "title": "Hybrid Cloud",
+          "summary": "Integrate on\u2011premise and cloud workloads"
+        },
+        {
+          "title": "Infra Automation",
+          "summary": "Reduce manual ops using DevOps tools"
+        }
+      ]
+    },
+    {
+      "category": "Cybersecurity",
+      "services": [
+        {
+          "title": "Security Operations",
+          "summary": "Threat monitoring and incident response"
+        },
+        {
+          "title": "Identity & Access",
+          "summary": "Governance and privileged access controls"
+        },
+        {
+          "title": "Compliance Readiness",
+          "summary": "Policy alignment & audit preparation"
+        }
+      ]
+    },
+    {
+      "category": "Networking & Collaboration",
+      "services": [
+        {
+          "title": "Enterprise Networking",
+          "summary": "Secure high\u2011performance network design"
+        },
+        {
+          "title": "Unified Collaboration",
+          "summary": "Voice, video and workforce communication"
+        },
+        {
+          "title": "Network Monitoring",
+          "summary": "Visibility, analytics & performance alerts"
+        }
+      ]
+    }
+  ]
+}
